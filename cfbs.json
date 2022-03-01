@@ -6,8 +6,8 @@
     "promise-type-git-example": {
       "description": "A super simple example promise type",
       "tags": ["promise-type"],
-      "repo": "https://github.com/cfengine/promise-type-template",
-      "by": "https://github.com/cfengine",
+      "repo": "https://github.com/chiachenglu/testing",
+      "by": "https://github.com/chiachenglu",
       "dependencies": ["library-for-promise-types-in-python"],
       "steps": [
         "copy git_example.py modules/promises/",
